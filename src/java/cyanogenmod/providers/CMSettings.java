@@ -958,12 +958,6 @@ public final class CMSettings {
         public static final String DEFAULT_THEME_PACKAGE = "default_theme_package";
 
         /**
-         * Developer options - Navigation Bar show switch
-         * @hide
-         */
-        public static final String DEV_FORCE_SHOW_NAVBAR = "dev_force_show_navbar";
-
-        /**
          * The keyboard brightness to be used while the screen is on.
          * Valid value range is between 0 and {@link PowerManager#getMaximumKeyboardBrightness()}
          * @hide
